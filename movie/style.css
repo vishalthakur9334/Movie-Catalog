@@ -1,0 +1,24 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    text-align: center;
+}
+#li{
+    font-size: larger;
+}
+div{
+    text-align: left;
+}
+main{
+    text-align: left;
+}
